@@ -1,1 +1,1 @@
-<?php echo "Case Study project" ?>
+<?php echo "Hello world" ?>
